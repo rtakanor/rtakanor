@@ -22,3 +22,7 @@
 [![Linux](https://img.shields.io/badge/LINUX-green?logo=linux&logoColor=white)](https://www.kernel.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-grey?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Power BI](https://img.shields.io/badge/POWERBI-black?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+
+### 📬 You Can Reach Me At:
+- 📧 Email: rv129romero@gmail.com
+- 💼 Instagram: rotakano_  

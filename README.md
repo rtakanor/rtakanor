@@ -8,10 +8,10 @@
 
 
 ## Tech Stack
-![C++]
-![Python]
+![C++](https://img.shields.io/badge/C%2B%2B-orange)
+![Python](https://img.shields.io/badge/PYTHON-blue)
 ![Java](https://img.shields.io/badge/Java-red)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
-![LINUX]
+![LINUX](https://img.shields.io/badge/LINUX-green)
 ![SQLite]
 ![PowerBi]

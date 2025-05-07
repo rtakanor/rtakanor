@@ -10,7 +10,7 @@
 ## Tech Stack
 ![C++]
 ![Python]
-![Java]
+![Java](https://img.shields.io/badge/Java-blue)
 ![HTML]
 ![LINUX]
 ![SQLite]

@@ -25,4 +25,5 @@
 
 ### 📬 You Can Reach Me At:
 - 📧 Email: rv129romero@gmail.com
-- 💼 Instagram: rtakanofit 
+- [![Instagram](https://img.shields.io/badge/-Instagram-white?logo=instagram&logoColor=E4405F&style=flat-square)](https://instagram.com/rtakanofit)
+

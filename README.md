@@ -13,5 +13,5 @@
 ![Java](https://img.shields.io/badge/Java-red)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![LINUX](https://img.shields.io/badge/LINUX-green)
-![SQLite]
-![PowerBi]
+![SQLite](https://img.shields.io/badge/SQLite-grey)
+![PowerBi](https://img.shields.io/badge/POWERBI-black)

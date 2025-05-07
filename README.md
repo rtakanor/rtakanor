@@ -7,7 +7,7 @@
 - 🤔 I’m passionate about sports, personal growth and coding!
 
 ### 🚧 Currently Working On:
-- 🔬 An NLP research for AI reviews in English/Spanish.  
+- 🔬 Research in NLP for AI data comprehension in English/Spanish.  
 - 📈 Learning about Large Language Models (LLMs).  
 - 🎯 Preparing for internships in AI and Data Science.
 

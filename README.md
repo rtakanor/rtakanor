@@ -10,7 +10,7 @@
 ## Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-orange)
 ![Python](https://img.shields.io/badge/PYTHON-blue)
-![Java]( https://img.shields.io/badge/java-red?logo=javascript)
+![Java]( https://img.shields.io/badge/java-red?logo=java)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![LINUX](https://img.shields.io/badge/LINUX-green)
 ![SQLite](https://img.shields.io/badge/SQLite-grey)

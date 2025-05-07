@@ -10,8 +10,8 @@
 ## Tech Stack
 ![C++]
 ![Python]
-![Java](https://img.shields.io/badge/Java-blue)
-![HTML]
+![Java](https://img.shields.io/badge/Java-red)
+![HTML](https://img.shields.io/badge/HTML-yellow)
 ![LINUX]
 ![SQLite]
 ![PowerBi]

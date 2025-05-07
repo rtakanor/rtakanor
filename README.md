@@ -8,10 +8,11 @@
 
 
 ## Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-orange)
-![Python](https://img.shields.io/badge/PYTHON-blue)
-![Java]( https://img.shields.io/badge/java-red?logo=java)
-![HTML](https://img.shields.io/badge/HTML-yellow)
-![LINUX](https://img.shields.io/badge/LINUX-green)
-![SQLite](https://img.shields.io/badge/SQLite-grey)
-![PowerBi](https://img.shields.io/badge/POWERBI-black)
+
+[![C++](https://img.shields.io/badge/C%2B%2B-orange?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/PYTHON-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/java-red?logo=java&logoColor=white)](https://www.java.com/)
+[![HTML](https://img.shields.io/badge/HTML-yellow?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Linux](https://img.shields.io/badge/LINUX-green?logo=linux&logoColor=white)](https://www.kernel.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-grey?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Power BI](https://img.shields.io/badge/POWERBI-black?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
